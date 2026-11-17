@@ -1,0 +1,735 @@
+{
+ "_doc": "수집기·알림 테스트용 보고서 목록(2026-11-13 기준 assets/reports.json 사본, 필요한 칸만). assets/reports.json 에 새 판을 추가하거나 고쳐도 수집 로직 테스트가 흔들리지 않게 따로 둔다.",
+ "reports": [
+  {
+   "id": "ai-index-2026",
+   "region": "intl",
+   "title": "AI Index Report 2026",
+   "short": "AI Index",
+   "org": "Stanford HAI",
+   "date": "2026-04-13",
+   "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+   "about": "AI의 연구·성능·경제·교육·정책·여론을 데이터로 추적하는 스탠퍼드 HAI의 연례 보고서입니다. 2026년판은 과학·의료 장을 따로 두고 'AI 주권' 분석 틀을 새로 넣었습니다.",
+   "cycle": "annual",
+   "when": "매년 4월 전후",
+   "next": "2027년 4월경",
+   "edition": "9번째 연례판",
+   "months": [
+    4
+   ],
+   "nextYM": "2027-04",
+   "watch": [
+    "Stanford AI Index",
+    "AI Index Report",
+    "스탠퍼드 AI 인덱스",
+    "스탠포드 AI 인덱스",
+    "AI 인덱스 보고서"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "AI Index",
+      "AI 인덱스",
+      "AI 지수"
+     ],
+     "with": [
+      "Stanford",
+      "HAI",
+      "스탠퍼드",
+      "스탠포드"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ai100-2026",
+   "region": "intl",
+   "title": "AI100 2026 Report: AI Goes Mainstream — The Scaling Era and the Rise of Generative AI",
+   "short": "AI100",
+   "org": "Stanford AI100",
+   "date": "2026-11-10",
+   "url": "https://ai100.stanford.edu/reports/2026-report",
+   "about": "2014년 시작된 스탠퍼드 '100년 AI 연구'가 5년마다 내는 전문가 패널 보고서로, 2016·2021년에 이은 세 번째 판입니다. 2021~2026년 생성형 AI가 주류가 된 과정을 돌아보며 12가지 결론을 냈습니다.",
+   "cycle": "5y",
+   "when": "2016 · 2021 · 2026년",
+   "next": "2031년",
+   "edition": "세 번째 5년 주기 보고서",
+   "months": [
+    11
+   ],
+   "nextYM": "2031",
+   "watch": [
+    "AI100",
+    "One Hundred Year Study",
+    "AI 100년 연구"
+   ]
+  },
+  {
+   "id": "iasr-2026",
+   "region": "intl",
+   "title": "International AI Safety Report 2026",
+   "short": "AI 안전 보고서",
+   "org": "International AI Safety Report",
+   "date": "2026-02-03",
+   "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026",
+   "about": "2023년 블레츨리 AI 안전 정상회의 합의로 시작된 범용 AI의 능력·위험·위험관리에 대한 국제 과학 평가입니다. 정책 권고 없이 근거를 종합하며, 2026년판은 최전선의 '새로 나타나는 위험'에 초점을 맞췄습니다.",
+   "cycle": "annual",
+   "when": "정식판 연초(2025.1 · 2026.2) + 가을 중간판",
+   "next": "2027년 정식판 예상",
+   "edition": "두 번째 정식판",
+   "months": [
+    2
+   ],
+   "minor": [
+    10,
+    11
+   ],
+   "nextYM": "2027-02",
+   "watch": [
+    "International AI Safety Report",
+    "국제 AI 안전 보고서"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "AI 안전 보고서"
+     ],
+     "with": [
+      "국제"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "state-of-ai-2026",
+   "region": "intl",
+   "title": "State of AI Report 2026",
+   "short": "State of AI",
+   "org": "Air Street Capital",
+   "date": "2026-10-08",
+   "url": "https://www.stateof.ai/",
+   "about": "AI 투자사가 지난 12개월의 연구·산업·정치·안전 흐름과 다음 해 예측을 슬라이드로 정리하는 연례 보고서입니다. 2026년판의 화두는 '능력에서 통제로' — 모델 점수보다 에이전트를 감독하고 인프라를 확보하는 능력입니다.",
+   "cycle": "annual",
+   "when": "매년 10월",
+   "next": "2027년 10월경",
+   "edition": "9번째 연례판",
+   "months": [
+    10
+   ],
+   "nextYM": "2027-10",
+   "watch": [],
+   "watchIf": [
+    {
+     "terms": [
+      "State of AI Report",
+      "State of AI 보고서"
+     ],
+     "with": [
+      "Air Street",
+      "stateof.ai",
+      "에어스트리트"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mckinsey-2026",
+   "region": "intl",
+   "title": "The State of AI in 2026: On the Road to ROI",
+   "short": "맥킨지 AI 현황",
+   "org": "McKinsey & Company",
+   "date": "2026-08",
+   "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+   "about": "기업의 AI 도입과 성과를 묻는 맥킨지의 연례 글로벌 설문입니다. 2026년판은 확산은 넓어졌지만 기업 전체의 재무 성과로는 아직 이어지지 않은 'ROI로 가는 길'을 다룹니다.",
+   "cycle": "annual",
+   "when": "연 1회 · 달은 해마다 다름(2025.11 · 2026.8)",
+   "next": "2027년",
+   "edition": "10번째 연례 설문",
+   "months": [
+    8
+   ],
+   "nextYM": "2027",
+   "watch": [
+    "McKinsey State of AI",
+    "맥킨지 AI 현황",
+    "맥킨지 AI 보고서"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "McKinsey Global Survey",
+      "맥킨지 글로벌 설문"
+     ],
+     "with": [
+      "AI",
+      "인공지능"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ip-index-2026",
+   "region": "intl",
+   "title": "International IP Index 2026 (14th Edition)",
+   "short": "국제 IP 지수",
+   "org": "U.S. Chamber of Commerce GIPC",
+   "date": "2026-03-11",
+   "url": "https://www.uschamber.com/intellectual-property/2026-international-ip-index",
+   "about": "미국 상공회의소 글로벌혁신정책센터(GIPC)가 특허·저작권·상표·영업비밀·집행 등 각국 지식재산 제도를 53개 지표로 평가하는 연례 지수입니다.",
+   "cycle": "annual",
+   "when": "매년 2~3월",
+   "next": "2027년 2~3월경",
+   "edition": "14번째 연례판",
+   "months": [
+    3
+   ],
+   "nextYM": "2027-03",
+   "watch": [
+    "International IP Index",
+    "국제지식재산지수",
+    "국제 IP 지수"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "IP Index"
+     ],
+     "with": [
+      "Chamber",
+      "GIPC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wipo-genai-2026",
+   "region": "intl",
+   "title": "Patent Trends Update in GenAI (WIPO Technology SPARK)",
+   "short": "WIPO 생성형 AI 특허",
+   "org": "WIPO",
+   "date": "2026-07",
+   "url": "https://www.wipo.int/web-publications/spark-patent-trends-update-in-genai/en/executive-summary.html",
+   "about": "WIPO의 2024년 생성형 AI 특허 지형 보고서(2014~2023)를 2025년 공개분까지 넓혀 누가, 어디서, 어떤 기술로 출원하는지 분석한 단편 보고서입니다.",
+   "cycle": "adhoc",
+   "when": "2024.7 첫판 → 2026년 갱신",
+   "next": "미정",
+   "edition": "2024년 특허 지형 보고서 갱신판",
+   "months": [
+    7
+   ],
+   "watch": [
+    "WIPO generative AI",
+    "생성형 AI 특허 동향"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "Patent Landscape Report"
+     ],
+     "with": [
+      "generative",
+      "GenAI",
+      "생성형"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gii-2026",
+   "region": "intl",
+   "title": "Global Innovation Index 2026",
+   "short": "글로벌 혁신 지수",
+   "org": "WIPO",
+   "date": "2026-09-29",
+   "url": "https://www.wipo.int/web-publications/global-innovation-index-2026/en/gii-2026-at-a-glance.html",
+   "about": "WIPO가 각국 혁신 생태계를 투입(제도·인적자본·인프라 등)과 산출(지식·창의 산출)로 나눠 평가하는 연례 지수입니다. 2026년 주제는 딥사이언스 스타트업이며, AI가 혁신 투자를 재편하는 흐름을 다뤘습니다.",
+   "cycle": "annual",
+   "when": "매년 9~10월",
+   "next": "2027년 9월경",
+   "edition": "19번째 연례판",
+   "months": [
+    9
+   ],
+   "nextYM": "2027-09",
+   "watch": [
+    "Global Innovation Index",
+    "글로벌 혁신지수",
+    "글로벌혁신지수",
+    "세계혁신지수"
+   ]
+  },
+  {
+   "id": "iea-energy-ai",
+   "region": "intl",
+   "title": "Energy and AI (2025) · Key Questions on Energy and AI (2026)",
+   "short": "IEA 에너지·AI",
+   "org": "International Energy Agency (IEA)",
+   "date": "2026-04",
+   "url": "https://www.iea.org/reports/energy-and-ai",
+   "about": "국제에너지기구가 AI로 늘어나는 데이터센터 전력 수요와 에너지 부문의 AI 활용을 분석한 보고서입니다. 2025년 4월 특별보고서에 이어 2026년 4월 후속 보고서를 냈습니다.",
+   "cycle": "adhoc",
+   "when": "2025.4 특별보고서 + 후속 분석",
+   "next": "미정",
+   "edition": "2025년 특별보고서 + 2026년 후속",
+   "months": [
+    4
+   ],
+   "watch": [
+    "IEA Energy and AI",
+    "Energy and AI report",
+    "IEA 에너지와 AI",
+    "IEA 데이터센터 전력"
+   ]
+  },
+  {
+   "id": "oecd-deso-2026",
+   "region": "intl",
+   "title": "OECD Digital Economy and Society Outlook 2026",
+   "short": "OECD 디지털 전망",
+   "org": "OECD",
+   "date": "2026-11-05",
+   "url": "https://www.oecd.org/en/about/news/press-releases/2026/11/oecd-digital-economy-and-society-outlook-2026.html",
+   "about": "OECD 회원국에서 AI를 비롯한 디지털 기술이 기업과 개인에게 얼마나 퍼졌는지, 어떤 격차가 있는지 진단하는 전망 보고서입니다.",
+   "cycle": "biennial",
+   "when": "격년 시리즈(DEO 2017·2020·2024 → DESO 2026)",
+   "next": "2028년경",
+   "edition": "2026년판",
+   "months": [
+    11
+   ],
+   "nextYM": "2028",
+   "watch": [
+    "Digital Economy and Society Outlook",
+    "Digital Economy Outlook",
+    "OECD 디지털경제",
+    "OECD 디지털 경제"
+   ]
+  },
+  {
+   "id": "wef-jobs-2025",
+   "region": "intl",
+   "title": "The Future of Jobs Report 2025",
+   "short": "WEF 일자리 보고서",
+   "org": "World Economic Forum",
+   "date": "2025-01-07",
+   "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/",
+   "about": "세계경제포럼이 기업들의 채용·교육 계획을 조사해 2030년까지 일자리와 필요 역량의 변화를 전망하는 보고서입니다.",
+   "cycle": "biennial",
+   "when": "1월 다보스 회의 직전(2016·2018·2020·2023·2025)",
+   "next": "2027년 1월경",
+   "edition": "2025년판",
+   "months": [
+    1
+   ],
+   "nextYM": "2027-01",
+   "watch": [
+    "Future of Jobs Report",
+    "일자리의 미래 보고서",
+    "미래 일자리 보고서"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "Future of Jobs"
+     ],
+     "with": [
+      "World Economic Forum",
+      "WEF",
+      "세계경제포럼",
+      "다보스"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pwc-jobs-2026",
+   "region": "intl",
+   "title": "2026 Global AI Jobs Barometer: Two futures for jobs in an AI era",
+   "short": "PwC AI 일자리 바로미터",
+   "org": "PwC",
+   "date": "2026-06-15",
+   "url": "https://pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html",
+   "about": "PwC가 세계 채용공고와 기업 재무 자료를 분석해 AI가 일자리·임금·생산성·필요 역량에 주는 영향을 추적하는 연례 보고서입니다. 2026년판은 AI가 노동시장을 '전문화'와 '대중화' 두 갈래로 나누고 있다고 봤습니다.",
+   "cycle": "annual",
+   "when": "매년 6월(2024년 시작)",
+   "next": "2027년 6월경",
+   "edition": "2026년판",
+   "months": [
+    6
+   ],
+   "nextYM": "2027-06",
+   "watch": [
+    "AI Jobs Barometer",
+    "AI 일자리 바로미터",
+    "AI 잡스 바로미터"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "Jobs Barometer",
+      "일자리 바로미터"
+     ],
+     "with": [
+      "PwC",
+      "삼일PwC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unctad-tir-2025",
+   "region": "intl",
+   "title": "Technology and Innovation Report 2025: Inclusive AI for Development",
+   "short": "UNCTAD 기술혁신",
+   "org": "UN Trade and Development (UNCTAD)",
+   "date": "2025-04-03",
+   "url": "https://unctad.org/press-material/ais-48-trillion-future-un-trade-and-development-alerts-divides-urges-action",
+   "about": "유엔무역개발회의가 AI를 개발도상국 관점에서 분석하고, 혜택이 소수 국가·기업에 쏠리지 않도록 하는 정책 방향을 제시한 보고서입니다.",
+   "cycle": "biennial",
+   "when": "2년마다 봄(2021.2 · 2023.3 · 2025.4)",
+   "next": "2027년 봄",
+   "edition": "2025년판",
+   "months": [
+    4
+   ],
+   "nextYM": "2027-04",
+   "watch": [
+    "Technology and Innovation Report",
+    "기술혁신보고서",
+    "기술혁신 보고서"
+   ]
+  },
+  {
+   "id": "euipo-genai-2025",
+   "region": "intl",
+   "title": "The Development of Generative Artificial Intelligence from a Copyright Perspective",
+   "short": "EUIPO 생성형 AI·저작권",
+   "org": "European Union Intellectual Property Office (EUIPO)",
+   "date": "2025-05-12",
+   "url": "https://euipo.europa.eu/tunnel-web/secure/webdav/guest/document_library/observatory/documents/reports/2025_GenAI_from_copyright_perspective/2025_GenAI_from_copyright_perspective_FullR_en.pdf",
+   "about": "유럽연합 지식재산청이 생성형 AI의 기술적 작동과 EU 저작권 규칙의 적용을 입력(학습 데이터)·출력(생성물)·생태계 영향 세 측면에서 정리한 연구 보고서입니다.",
+   "cycle": "adhoc",
+   "when": "단발 연구 보고서",
+   "next": "미정",
+   "edition": "연구 보고서",
+   "months": [
+    5
+   ],
+   "watch": [
+    "EUIPO generative AI",
+    "EUIPO GenAI",
+    "유럽연합지식재산청 생성형"
+   ]
+  },
+  {
+   "id": "msft-diffusion-2026q2",
+   "region": "intl",
+   "title": "Global AI Diffusion: Q2 2026 Trends and Insights",
+   "short": "MS AI 확산",
+   "org": "Microsoft AI Economy Institute",
+   "date": "2026-09-21",
+   "url": "https://blogs.microsoft.com/on-the-issues/2026/09/21/the-continued-state-of-global-ai-diffusion-in-2026/",
+   "about": "나라마다 생산가능인구 가운데 생성형 AI를 쓰는 사람의 비율을 추정해 분기마다 순위를 매기는 보고서입니다. 한국의 AI 이용 확산 속도를 가장 자주 확인할 수 있습니다.",
+   "cycle": "quarterly",
+   "when": "분기 수치 · 약 4개월 간격(2026.1 · 5 · 9)",
+   "next": "3분기판 2027년 초 예상",
+   "edition": "분기 보고서",
+   "months": [
+    1,
+    5,
+    9
+   ],
+   "nextYM": "2027-01",
+   "watch": [
+    "AI Diffusion Report",
+    "Global AI Diffusion",
+    "AI 확산 보고서",
+    "AI 경제연구소",
+    "AI 이코노미 인스티튜트"
+   ]
+  },
+  {
+   "id": "msft-wti-2026",
+   "region": "intl",
+   "title": "2026 Work Trend Index Annual Report: Agents, human agency, and the opportunity for every organization",
+   "short": "MS 업무동향지표",
+   "org": "Microsoft",
+   "date": "2026-05-05",
+   "url": "https://microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",
+   "about": "마이크로소프트가 AI를 쓰는 지식근로자 설문과 Microsoft 365 사용 신호로 일하는 방식의 변화를 보는 연례 보고서입니다. 2026년판은 개인은 AI로 할 수 있는 일이 넓어졌지만 조직이 따라가지 못하는 '전환의 역설'을 짚었습니다.",
+   "cycle": "annual",
+   "when": "매년 봄(2026년 5월 5일)",
+   "next": "2027년 봄",
+   "edition": "2026년 연례판",
+   "months": [
+    5
+   ],
+   "nextYM": "2027-05",
+   "watch": [
+    "Work Trend Index",
+    "업무동향지표",
+    "업무 트렌드 지표"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "워크 트렌드 인덱스",
+      "업무 동향 지표"
+     ],
+     "with": [
+      "마이크로소프트",
+      "Microsoft",
+      "한국MS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gartner-hc-ai-2026",
+   "region": "intl",
+   "title": "Hype Cycle for Artificial Intelligence, 2026",
+   "short": "가트너 하이프 사이클",
+   "org": "Gartner",
+   "date": "2026-08-28",
+   "url": "https://www.gartner.com/en/documents/8319853",
+   "about": "AI 기술이 기대의 정점과 환멸의 골짜기를 거쳐 실제 생산성 단계로 가는 위치를 한 장의 곡선으로 보여 주는 연례 분석입니다. 원문은 유료여서 공개된 요약과 보도를 바탕으로 정리했습니다.",
+   "cycle": "annual",
+   "when": "연 1회 · 6~8월(2025.6 · 2026.8)",
+   "next": "2027년 여름",
+   "edition": "연례판",
+   "months": [
+    8
+   ],
+   "minor": [
+    4
+   ],
+   "nextYM": "2027-08",
+   "watch": [
+    "Gartner Hype Cycle",
+    "가트너 하이프 사이클"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "Hype Cycle",
+      "하이프 사이클"
+     ],
+     "with": [
+      "Gartner",
+      "가트너"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fmti-2025",
+   "region": "intl",
+   "title": "The 2025 Foundation Model Transparency Index",
+   "short": "모델 투명성 지수",
+   "org": "Stanford CRFM",
+   "date": "2025-12",
+   "url": "https://crfm.stanford.edu/fmti/December-2025",
+   "about": "주요 AI 개발사가 학습 데이터·연산량·위험 관리·사용 정책 같은 정보를 얼마나 공개하는지 100점 만점으로 매기는 지수입니다.",
+   "cycle": "annual",
+   "when": "연 1회 · 달은 유동(2023.10 · 2024.5 · 2025.12)",
+   "next": "2026년판 일정 미발표",
+   "edition": "세 번째 연례판",
+   "months": [
+    12
+   ],
+   "watch": [
+    "Foundation Model Transparency Index",
+    "파운데이션 모델 투명성 지수"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "FMTI"
+     ],
+     "with": [
+      "Stanford",
+      "transparency",
+      "투명성"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "oxford-gari-2025",
+   "region": "intl",
+   "title": "Government AI Readiness Index 2025",
+   "short": "정부 AI 준비도",
+   "org": "Oxford Insights",
+   "date": "2025-12",
+   "url": "https://oxfordinsights.com/ai-readiness/government-ai-readiness-index-2025/",
+   "about": "각국 정부가 AI를 공공의 이익에 활용할 준비가 얼마나 됐는지 비교하는 지수입니다. 2025년판은 정책 역량·거버넌스·AI 인프라 등 6개 축으로 평가 틀을 새로 짰습니다.",
+   "cycle": "annual",
+   "when": "매년 12월 전후",
+   "next": "2026년 12월경",
+   "edition": "8번째판",
+   "months": [
+    12
+   ],
+   "nextYM": "2026-12",
+   "watch": [
+    "Government AI Readiness Index",
+    "정부 AI 준비도",
+    "정부 AI 준비 지수"
+   ],
+   "watchIf": [
+    {
+     "terms": [
+      "AI Readiness Index",
+      "AI 준비 지수",
+      "AI 준비도 지수"
+     ],
+     "with": [
+      "Oxford Insights",
+      "옥스퍼드"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kr-internet-2025",
+   "region": "kr",
+   "title": "2025 인터넷이용실태조사",
+   "short": "인터넷이용실태조사",
+   "org": "과학기술정보통신부·한국지능정보사회진흥원(NIA)",
+   "date": "2026-03-31",
+   "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=278744",
+   "about": "국내 가구와 개인의 인터넷 이용 환경·이용률·행태와 AI·SNS·클라우드 같은 주요 서비스 이용을 해마다 조사합니다. 2025년판은 생성형 AI의 이용 목적·만족도·유료 구독 여부를 새로 물었습니다.",
+   "cycle": "annual",
+   "when": "매년 3월 말(전년 조사분)",
+   "next": "2027년 3월경",
+   "edition": "2025년 조사",
+   "months": [
+    3
+   ],
+   "nextYM": "2027-03",
+   "watch": [
+    "인터넷이용실태조사",
+    "인터넷 이용 실태조사"
+   ]
+  },
+  {
+   "id": "kr-panel-2025",
+   "region": "kr",
+   "title": "2025 지능정보사회 이용자 패널조사",
+   "short": "지능정보사회 패널조사",
+   "org": "방송미디어통신위원회·정보통신정책연구원(KISDI)",
+   "date": "2026-05-28",
+   "url": "https://www.fnnews.com/news/202605281415233244",
+   "about": "같은 이용자를 해마다 다시 조사해 지능정보 서비스 이용과 인식이 어떻게 바뀌는지 추적합니다.",
+   "cycle": "annual",
+   "when": "매년 5월 전후",
+   "next": "2027년 5월경",
+   "edition": "2025년 조사",
+   "months": [
+    5
+   ],
+   "nextYM": "2027-05",
+   "watch": [
+    "지능정보사회 이용자 패널조사",
+    "이용자 패널조사"
+   ]
+  },
+  {
+   "id": "kr-vas-2025",
+   "region": "kr",
+   "title": "2025년 부가통신사업 실태조사",
+   "short": "부가통신사업 실태조사",
+   "org": "과학기술정보통신부·정보통신정책연구원(KISDI)",
+   "date": "2026-06-03",
+   "url": "https://v.daum.net/v/20260603131332693",
+   "about": "전기통신사업법에 따라 해마다 부가통신 사업과 디지털 플랫폼 이용을 조사합니다. 2025년판은 검색·메신저·생성형 AI 같은 주요 플랫폼의 이용 행태를 처음 함께 조사했습니다.",
+   "cycle": "annual",
+   "when": "매년 6월 전후",
+   "next": "2027년 6월경",
+   "edition": "2025년 조사",
+   "months": [
+    6
+   ],
+   "nextYM": "2027-06",
+   "watch": [
+    "부가통신사업 실태조사"
+   ]
+  },
+  {
+   "id": "kr-digital-2025",
+   "region": "kr",
+   "title": "2025 디지털산업 실태조사",
+   "short": "디지털산업 실태조사",
+   "org": "과학기술정보통신부·정보통신정책연구원(KISDI)",
+   "date": "2026-07-08",
+   "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=283973",
+   "about": "국내 디지털산업의 규모와 기업의 디지털·AI 전환 수준을 사업체 단위로 조사합니다.",
+   "cycle": "annual",
+   "when": "매년 7월 전후(전전년 기준 수치)",
+   "next": "2027년 7월경",
+   "edition": "2024년 기준 · 국가승인통계 세 번째 공표",
+   "months": [
+    7
+   ],
+   "nextYM": "2027-07",
+   "watch": [
+    "디지털산업 실태조사"
+   ]
+  },
+  {
+   "id": "kr-ai-industry-2024",
+   "region": "kr",
+   "title": "2024 인공지능산업 실태조사",
+   "short": "인공지능산업 실태조사",
+   "org": "과학기술정보통신부·소프트웨어정책연구소(SPRi)",
+   "date": "2025",
+   "url": "https://spri.kr/posts?code=data_all",
+   "about": "국내 AI 기업의 수·매출·인력·애로 사항을 해마다 조사하는 산업 통계입니다.",
+   "cycle": "annual",
+   "when": "매년(발표 시기 유동)",
+   "next": "최신판 공개 여부 확인 필요",
+   "edition": "2024년판(2023년 기준)",
+   "months": [
+    12
+   ],
+   "watch": [
+    "인공지능산업 실태조사",
+    "인공지능산업실태조사",
+    "인공지능 산업 실태조사",
+    "AI 산업 실태조사"
+   ]
+  },
+  {
+   "id": "bok-ai-2026",
+   "region": "kr",
+   "title": "BOK 이슈노트: AI의 생산성·고용 효과 연구",
+   "short": "한국은행 AI 연구",
+   "org": "한국은행 조사국",
+   "date": "2026-06-08",
+   "url": "https://v.daum.net/v/20260608063219288",
+   "about": "한국은행 조사국이 취업자 5,512명을 조사해 생성형 AI가 업무시간과 실제 생산에 미친 영향을 분석한 연구들입니다. 2025년 8월 첫 보고서(제2025-22호)에 이어 2026년 6월 '도입 초기 3년의 효과'를 분석했습니다.",
+   "cycle": "adhoc",
+   "when": "수시(2025.8 · 2026.6)",
+   "next": "미정",
+   "edition": "제2026-12호 · 제2025-22호 등",
+   "months": [
+    6
+   ],
+   "watch": [],
+   "watchIf": [
+    {
+     "terms": [
+      "BOK 이슈노트",
+      "한국은행 이슈노트",
+      "BOK Issue Note"
+     ],
+     "with": [
+      "AI",
+      "인공지능",
+      "생성형"
+     ]
+    }
+   ]
+  }
+ ]
+}
